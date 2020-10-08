@@ -1,0 +1,48 @@
+Status: FAILED
+Time Taken: 99
+Size: 358
+Timestamp: Thu Oct 08 10:17:08 IST 2020
+TestStep: Call login service
+
+----------------- Messages ------------------------------
+[Not SOAP Fault] Response is a SOAP Fault
+
+----------------- Properties ------------------------------
+Endpoint: http://DESKTOP-I0SPO2S:8088/
+Encoding: UTF-8
+
+---------------- Request ---------------------------
+Request Headers: SOAPAction : "http://expertz.me/service/eCommerce/ShoppingService/1.0/login"
+Connection : Keep-Alive
+User-Agent : Apache-HttpClient/4.1.1 (java 1.5)
+Host : DESKTOP-I0SPO2S:8088
+Accept-Encoding : gzip,deflate
+Content-Length : 341
+Content-Type : text/xml;charset=UTF-8
+
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://expertz.me/data/eCommerce/ShoppingService/1.0">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ns:loginRequest>
+         <ns:username/>
+         <ns:password/>
+      </ns:loginRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+---------------- Response --------------------------
+Response Headers: Transfer-Encoding : chunked
+Server : Jetty(6.1.26)
+#status# : HTTP/1.1 500 Internal Server Error
+Content-Type : text/html; charset=iso-8859-1
+
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+   <soapenv:Body>
+      <soapenv:Fault>
+         <faultcode>Server</faultcode>
+         <faultstring>Failed to dispatch using script; java.lang.NullPointerException: Cannot invoke method length() on null object</faultstring>
+      </soapenv:Fault>
+   </soapenv:Body>
+</soapenv:Envelope>

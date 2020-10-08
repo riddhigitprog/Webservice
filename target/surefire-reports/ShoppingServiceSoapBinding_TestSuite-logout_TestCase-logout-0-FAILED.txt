@@ -1,0 +1,32 @@
+Status: FAILED
+Time Taken: 4200
+Size: 0
+Timestamp: Thu Oct 08 10:15:16 IST 2020
+TestStep: logout
+
+----------------- Messages ------------------------------
+org.apache.http.conn.HttpHostConnectException: Connection to http://DESKTOP-I0SPO2S:8088 refused
+
+----------------- Properties ------------------------------
+Endpoint: http://DESKTOP-I0SPO2S:8088/
+Encoding: UTF-8
+
+---------------- Request ---------------------------
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://expertz.me/data/eCommerce/ShoppingService/1.0">
+   \r
+   <soapenv:Header/>
+   \r
+   <soapenv:Body>
+      \r
+      <ns:logoutRequest>
+         \r
+         <ns:sessionId>2873100383252264</ns:sessionId>
+         \r
+      </ns:logoutRequest>
+      \r
+   </soapenv:Body>
+   \r
+</soapenv:Envelope>
+
+---------------- Response --------------------------
+- missing response / garbage collected -

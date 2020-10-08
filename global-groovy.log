@@ -1,0 +1,52 @@
+2020-10-08 10:15:43,220 INFO  [log] ${Username and password#Username}
+2020-10-08 10:15:47,803 INFO  [log] FAILED
+2020-10-08 10:15:47,819 INFO  [log] 2
+2020-10-08 10:15:47,820 INFO  [log] 4551
+2020-10-08 10:15:48,018 INFO  [log] Riddhi
+2020-10-08 10:15:52,790 INFO  [log] FAILED
+2020-10-08 10:15:52,790 INFO  [log] 2
+2020-10-08 10:15:52,791 INFO  [log] 4744
+2020-10-08 10:15:53,393 INFO  [log] number of rows is 3 and number of columns is 2
+2020-10-08 10:15:58,075 INFO  [log] FAILED
+2020-10-08 10:15:58,076 INFO  [log] 2
+2020-10-08 10:15:58,076 INFO  [log] 4641
+2020-10-08 10:16:02,730 INFO  [log] FAILED
+2020-10-08 10:16:02,732 INFO  [log] 2
+2020-10-08 10:16:02,734 INFO  [log] 4622
+2020-10-08 10:16:03,792 INFO  [log] Riddhiman
+2020-10-08 10:16:03,808 INFO  [log] Welcome1
+2020-10-08 10:16:03,870 INFO  [log] Raj
+2020-10-08 10:16:03,882 INFO  [log] Welcome2
+2020-10-08 10:16:03,909 INFO  [log] Riddhi
+2020-10-08 10:16:03,918 INFO  [log] Welcome3
+2020-10-08 10:17:05,751 INFO  [log] User is Riddhi
+2020-10-08 10:17:05,758 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:17:05,894 INFO  [log] ${Username and password#Username}
+2020-10-08 10:17:05,976 INFO  [log] User is Riddhi
+2020-10-08 10:17:05,976 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:17:06,014 INFO  [log] FINISHED
+2020-10-08 10:17:06,031 INFO  [log] 5
+2020-10-08 10:17:06,035 INFO  [log] 83
+2020-10-08 10:17:06,292 INFO  [log] Riddhi
+2020-10-08 10:17:06,435 INFO  [log] User is Riddhi
+2020-10-08 10:17:06,436 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:17:06,493 INFO  [log] FINISHED
+2020-10-08 10:17:06,494 INFO  [log] 5
+2020-10-08 10:17:06,495 INFO  [log] 88
+2020-10-08 10:17:07,418 INFO  [log] number of rows is 3 and number of columns is 2
+2020-10-08 10:17:07,554 INFO  [log] User is Riddhi
+2020-10-08 10:17:07,555 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:17:07,655 INFO  [log] FINISHED
+2020-10-08 10:17:07,655 INFO  [log] 5
+2020-10-08 10:17:07,659 INFO  [log] 162
+2020-10-08 10:17:07,722 INFO  [log] User is Riddhi
+2020-10-08 10:17:07,723 INFO  [log] Not a previleged user - No purchase for you!!!
+2020-10-08 10:17:07,778 INFO  [log] FINISHED
+2020-10-08 10:17:07,782 INFO  [log] 5
+2020-10-08 10:17:07,789 INFO  [log] 96
+2020-10-08 10:17:08,314 INFO  [log] Riddhiman
+2020-10-08 10:17:08,319 INFO  [log] Welcome1
+2020-10-08 10:17:08,331 INFO  [log] Raj
+2020-10-08 10:17:08,337 INFO  [log] Welcome2
+2020-10-08 10:17:08,343 INFO  [log] Riddhi
+2020-10-08 10:17:08,344 INFO  [log] Welcome3

@@ -1,0 +1,24 @@
+Status: FAILED
+Time Taken: 387
+Size: 0
+Timestamp: Thu Oct 08 10:17:05 IST 2020
+TestStep: System Test
+Error:Assertion failed: 
+
+assert runner.results.size() == 6
+       |      |       |      |
+       |      |       5      false
+       |      [com.eviware.soapui.impl.wsdl.teststeps.WsdlTestStepResult@34e5c72, com.eviware.soapui.impl.wsdl.teststeps.WsdlTestRequestStepResult@224c79ee, com.eviware.soapui.impl.wsdl.teststeps.WsdlTestStepResult@554455f4, com.eviware.soapui.impl.wsdl.teststeps.WsdlTestStepResult@11095fb5, com.eviware.soapui.impl.wsdl.teststeps.WsdlTestRequestStepResult@60553c2a]
+       com.eviware.soapui.impl.wsdl.testcase.WsdlTestCaseRunner@2197aac7
+
+
+----------------- Messages ------------------------------
+Assertion failed: 
+
+assert runner.results.size() == 6
+       |      |       |      |
+       |      |       5      false
+       |      [com.eviware.soapui.impl.wsdl.teststeps.WsdlTestStepResult@34e5c72, com.eviware.soapui.impl.wsdl.teststeps.WsdlTestRequestStepResult@224c79ee, com.eviware.soapui.impl.wsdl.teststeps.WsdlTestStepResult@554455f4, com.eviware.soapui.impl.wsdl.teststeps.WsdlTestStepResult@11095fb5, com.eviware.soapui.impl.wsdl.teststeps.WsdlTestRequestStepResult@60553c2a]
+       com.eviware.soapui.impl.wsdl.testcase.WsdlTestCaseRunner@2197aac7
+
+error at line: 24

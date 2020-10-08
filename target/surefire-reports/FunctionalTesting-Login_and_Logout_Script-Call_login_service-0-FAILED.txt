@@ -1,0 +1,26 @@
+Status: FAILED
+Time Taken: 4233
+Size: 0
+Timestamp: Thu Oct 08 10:15:33 IST 2020
+TestStep: Call login service
+
+----------------- Messages ------------------------------
+org.apache.http.conn.HttpHostConnectException: Connection to http://DESKTOP-I0SPO2S:8088 refused
+
+----------------- Properties ------------------------------
+Endpoint: http://DESKTOP-I0SPO2S:8088/
+Encoding: UTF-8
+
+---------------- Request ---------------------------
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://expertz.me/data/eCommerce/ShoppingService/1.0">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ns:loginRequest>
+         <ns:username>Riddhiman</ns:username>
+         <ns:password>Test12</ns:password>
+      </ns:loginRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
+---------------- Response --------------------------
+- missing response / garbage collected -
